@@ -29,13 +29,10 @@ The subnet mask determines the target range. When Zenmap displays results from m
 
 ## Evidence
 
-### Quick Scan output
-
-
-
-### Topology view
-
-
+| View | Observation |
+|---|---|
+| Nmap Output | 256 addresses checked, 3 hosts up |
+| Topology | The view displayed the three scan results and one address from another subnet |
 
 ## Skills Demonstrated
 
